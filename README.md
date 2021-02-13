@@ -13,3 +13,7 @@
 - Mudar o tipo de display block para flex
 
 - propriedades para itens(que estão dentro do container) e propriedades para o container
+
+## Aula 02
+
+- Trabalhando com Flex-direction: por padrão o flex-direction é row, mas podemos mudar para colunm.
