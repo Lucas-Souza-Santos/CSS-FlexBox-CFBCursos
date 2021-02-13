@@ -30,3 +30,15 @@ Mas pode ser usadas tbm as propriedades:
 ## Aula 04
 
 Propriedade Flex-flow
+
+## Aula 05
+
+Propriedade justify-content vai definir o aliamento dos itens de acordo com o main axis.
+
+- flex-start:
+
+alinha com o  inicio do eixo main axis que pode ser é na esquerda(padão) ou na direita(flex-direction: row-reverse;).
+
+- space-between
+
+- space-around

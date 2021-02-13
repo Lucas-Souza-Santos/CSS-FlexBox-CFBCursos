@@ -1,24 +1,21 @@
 .item {
-    margin-left: 5px;
+    margin: 5px;
     padding: 5px;
-    background: #777;
+    background: #447;
     text-align: center;
     font-size: 1em;
     color: #fff;
 
 }
 .container{
+    max-width: 600px;
     margin: 0 auto;
-    flex-direction: row-reverse;
-    justify-content: flex-start;
-}
-.container .item a{
-    text-decoration: none;
-    color: #fff;    
-}
-.flexivel{
+    border: 1px solid #000;
     display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
 }
+
 p{
     text-align: center;
     margin: 25px 0 0 0;
