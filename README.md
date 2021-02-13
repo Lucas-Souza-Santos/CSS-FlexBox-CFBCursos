@@ -42,3 +42,7 @@ alinha com o  inicio do eixo main axis que pode ser é na esquerda(padão) ou na
 - space-between
 
 - space-around
+
+## Aula 06
+
+Propriedade align-itens que mexe com os elementos no eixo cruzado ou cross axis

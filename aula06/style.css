@@ -9,14 +9,14 @@
 }
 .container{
     max-width: 600px;
-    height: 600px;
     margin: 0 auto;
     border: 1px solid #000;
-    display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    align-items: center;
 }
-
+.flexivel{
+    display: flex;
+}
 p{
     text-align: center;
     margin: 25px 0 0 0;
