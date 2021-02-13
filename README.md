@@ -6,8 +6,8 @@
 
 - Eixo de trabalho:
 
-*cross axis fica na vertical
+* cross axis fica na vertical
 
-*main axis fica na horizontal
+* main axis fica na horizontal
 
 - Mudar o tipo de display block para flex
